@@ -1,0 +1,143 @@
+html{
+    font-size: 50%;
+}
+
+h1{
+    font-size: 2.6rem;
+}
+h2{
+    font-size: 4.8rem;
+}
+h3{
+    font-size: 2.6rem;
+}
+h4,
+h5{
+    font-size: 2.8rem;
+}
+
+li{
+    font-size: 2rem;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+/* HEADER */
+
+.main-head{
+    background: #E2E5DE;
+    color: black;
+    margin-top: 20vh;
+    text-align: center;
+}
+nav{
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+    padding: 3rem;
+    padding-right: 5cm;
+}
+nav ul{
+    display: flex;
+    flex: 4 1 40rem;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    font-weight: bold;
+    padding-right: 5cm;
+    }
+    
+
+#logo{
+    flex: 2 1 40rem;
+}
+h2{
+    text-align: center;
+    margin-top: 1vh;
+}
+.heading{color: #ffa550; margin: 100px; top: 60%; width:100% ; position: absolute; padding-left: 0%;}
+.land{color: white; margin: 100px; top: 65%; width: 100%; position: absolute;}
+.ran{color: white;margin: 100px; top: 70%; width: 100%; position: absolute; }
+#mean{color: #ffa550; margin: 100px; top: 60%; width: 100% ; position: absolute; padding-left: 10.5cm;}
+#stylesheet{color: white; margin: 100px; top: 65%; width: 100%; position: absolute; padding-left: 10.5cm;font-size: large;}
+#title{color: white; margin: 100px; top: 70%; width: 10% ; position: absolute; padding-left: 10.5cm;}
+#content{color: #ffa550; margin: 100px; top: 60%; width:100% ; position: absolute; padding-left: 21cm; font-weight: bold; font-size: x-large;}
+#container{color: white; margin: 100px; top: 65%; width: 200%; position: absolute;padding-left: 21cm;font-weight: bold ;font-size: large;}
+#div{color: white; margin: 100px; top: 70%; width: 10% ; position: absolute; padding-left: 21cm;}
+.rectangle{
+    width: 900px;
+    height: 100px;
+    background: #000022;
+    display: block;
+    margin: auto;
+}
+#run{color: white;margin: 110px; top: 100%; width: 100%; position: absolute; padding-left: 3.5cm;font-size: large }
+#left{color: #ffa550;margin: 110px; top: 95%; width: 100%; position: absolute; padding-left: 3.5cm;font-size: medium;font-weight: bold}
+
+
+#cover{color: white;margin: 110px; top: 95%; width: 100%; position: absolute; padding-left: 21cm;font-size: large;}
+#charse{
+    background-color: #ffa550;
+    border: solid 1px wight;
+    width: 150px;
+    height: 40px;
+    position: right;
+    margin: 0.01cm;
+    
+}
+.img{
+    padding-left: 1cm;
+    top: 2000%;
+    margin: 50px;
+}
+#lifestyle{color: #ffa550;margin: 130px; top: 165%; width: 100%; position: absolute; padding-left: 2cm;font-size: large;font-weight: bold}
+#best{color: black;margin: 130px; top: 170%; width: 100%; position: absolute; padding-left: 2cm;font-size: large;font-weight: bold}
+#admin{color: gray;margin: 130px; top: 175%; width: 100%; position: absolute; padding-left: 2cm;font-size: medium;}
+#nulle{margin: 110px; top: 185%; width: 100%; position: absolute;font-size: medium;}
+.a{margin: 110px; top: 122%; width: 100%; position: absolute;font-size: medium;padding-left: 18cm;}
+#categories{margin: 110px; top: 116%; width: 100%; position: absolute;font-size: medium;padding-left: 18cm;font-weight: bold}
+#recents{margin: 110px; top: 150%; width: 100%; position: absolute;font-size: medium;padding-left: 18cm;font-weight: bold}
+#vestibulum{margin: 110px; top: 165%; width: 100%; position: absolute;font-size: large;padding-left: 18cm;font-weight: bold}
+#may{color:gray; margin: 110px; top: 172%; width: 100%; position: absolute;font-size: medium;padding-left: 18cm;}
+#suspendisse{margin: 110px; top: 177%; width: 100%; position: absolute;font-size: large;padding-left: 18cm;font-weight: bold}
+#maye{color:gray; margin: 110px; top: 184%; width: 100%; position: absolute;font-size: medium;padding-left: 18cm;}
+#swag{margin: 110px; top: 189%; width: 100%; position: absolute;font-size: large;padding-left: 18cm;font-weight: bold}
+#maye2{color:gray; margin: 110px; top: 196%; width: 100%; position: absolute;font-size: medium;padding-left: 18cm;}
+#nulle{color: gray;padding-left: 1cm;}
+#link{padding-left: 0cm; width: 90%; position: absolute; margin: 200px;color: gray;font-size: large;}
+#face{color:gray;font-size: large;padding-left:11cm; width: 90%; position: absolute; margin: 200px;}
+
+#view{color:white;font-size: medium;padding-left:5cm; width: 90%; position: absolute; margin: 260px;font-weight: bold}
+.carre{
+    width: 500px;
+    height: 50px;
+    background: #ffa550;
+    display: block;
+    margin: auto;
+    position: absolute;
+    margin: 250px;
+    
+    }
+    .footer1 {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: #000022;
+        color: white ;
+        text-align: center;
+       height: 300;
+     }
+     #start{
+        color: white;
+        margin: 275px;
+}
+#else{
+    line-height: 100px;
+    font-size: medium;
+}
+     
